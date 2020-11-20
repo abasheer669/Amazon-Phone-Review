@@ -10,3 +10,13 @@ We use MonogDB compass for storing the orginal dataset as well as the one which 
 This project helped me develop a deeper understanding of Pandas and Numpy dataframeworks in Python(spyder). The output graphs were produced using the Matplotlib library.
 
 This project is helpful for anyone looking for an introduction to these frameworks.
+
+# Tech
+
+Project uses different sources to work properly:
+
+.[Python]-  Language used to build on!
+.[MongoDB]- Platform used to store and retrive data. 
+.[Pandas] - Library to Filter data.
+
+  
